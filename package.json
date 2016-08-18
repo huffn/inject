@@ -1,6 +1,6 @@
 {
   "name": "inject",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "description": "Makefile for for inject. Runs tests, spawns server, builds docs and files",
   "author": "LinkedIn",
   "private": true,
