@@ -114,7 +114,7 @@ var Executor  = Fiber.extend(function() {
     var meta = globalObject;
     var module = meta.module;
     var failed = false;
-    var sourceString = IS_IE ? '' : '//@ sourceURL=' + module.uri;
+    var sourceString = IS_IE ? '' : '//# sourceURL=' + module.uri;
     var result;
     var err;
 
