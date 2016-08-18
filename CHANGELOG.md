@@ -1,3 +1,10 @@
+<a name="v0.7.3"></a>
+### v0.7.3 (2016-08-18)
+
+#### Bug Fixes
+
+* //@ sourceURL was throwing a lot of errors. Switched to //# sourceURL instead
+
 <a name="v0.7.2"></a>
 ### v0.7.2 (2015-09-02)
 
